@@ -1,0 +1,18 @@
+[submodule "ihsboost"]
+	path = ihsboost
+	url = https://github.com/ihsrobotics/ihsboost.git
+[submodule "libwallaby"]
+	path = libwallaby
+	url = https://github.com/chrehall68/libwallaby.git
+[submodule "botui"]
+	path = botui
+	url = https://github.com/chrehall68/botui.git
+[submodule "harrogate"]
+	path = harrogate
+	url = https://github.com/chrehall68/harrogate.git
+[submodule "libkar"]
+	path = libkar
+	url = https://github.com/kipr/libkar.git
+[submodule "pcompiler"]
+	path = pcompiler
+	url = https://github.com/kipr/pcompiler.git
